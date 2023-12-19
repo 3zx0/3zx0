@@ -1,4 +1,7 @@
-### Hi there 👋
+# 3zX
+
+An ambitious, young 17-year-old decent Java developer.
+
 
 <!--
 **3zx0/3zx0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
