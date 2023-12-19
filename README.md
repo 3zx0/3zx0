@@ -2,6 +2,8 @@
 
 An ambitious, young 17-year-old decent Java developer.
 
+MyDiscord: 3_z_x
+
 
 <!--
 **3zx0/3zx0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
